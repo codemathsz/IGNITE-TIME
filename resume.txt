@@ -1,0 +1,17 @@
+styles
+- aprendemos styled-components
+
+react-router-dom
+- aprendemos roteamento 
+
+contexts
+
+reducers
+- formato de trabalhar com dados complexos e realizar ações em cima de lista de dados complexos
+
+immer
+- forma de trabalhar com a imutabilidade de uma maneira mais simples
+
+react-hook-former
+- usamos uma validação com o hookform/resolver
+- validamos com zod
